@@ -1,1 +1,1 @@
-# kicad_dali_usb_lpc
+KiCad Project for DALI to USB interface based on NXP LPC 1114 µController.
